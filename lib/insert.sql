@@ -19,7 +19,7 @@ VALUES ("FREDO", "I am invisible", "dwarf", 1),
         ("FREDO", "I am invisible", "dwarf", 1),
         ("FREDO", "I am invisible", "dwarf", 1),
         ("FREDO", "I am invisible", "dwarf", 1),
-        ("FREDO", "I am invisible", "elf", 1);
+        ("FREDO", "I am invisible", "elf", 8);
 UPDATE characters SET species = "Martian" where species = "elf";
 
 
